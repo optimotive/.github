@@ -1,0 +1,3 @@
+At Optimotive, we believe that robotic platforms and the potential for automation should always be available, no matter how muddy, dusty, or otherwise unpredictable the environment is, rain or shine.
+
+We build mid-sized autonomous robot systems for the construction industry, applications include data capture, cleaning and material handling. If you are interested in learning more about our offerings; you can get in touch with us via our [website](https://optimotive.io/)!
